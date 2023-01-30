@@ -57,4 +57,3 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
     - Implementation Details:
       - Test all custom id functionality, including adding a custom id, editing a custom id, and generating a report using the custom id.
       - Ensure that the internal database id is still used for internal processes and that the custom id is only used for reporting purposes.
-      - Note: Time/Effort estimates may vary based on the specific implementation details and unknowns in the system.
