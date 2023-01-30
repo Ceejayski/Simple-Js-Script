@@ -10,7 +10,7 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 
-** The original code used multiple nested if statements to determine the partition key. The refactored code replaces these with a more concise and readable approach using ternary operators and helper functions.
+**The original code used multiple nested if statements to determine the partition key. The refactored code replaces these with a more concise and readable approach using ternary operators and helper functions.**
 
 - A stringify helper function is created to convert a value to a string, or stringify it if it is not already a string.
 
